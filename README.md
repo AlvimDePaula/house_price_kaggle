@@ -2,7 +2,7 @@
 
 Notebook criado para uma competição já finalizada há tempos no kaggle, com o objetivo de praticar mais afundo análise exploratória dos dados. 
 
-Onde obtive um score = 0,162 na competição.
+Onde obtive um score = 0,162 na competição. Foi utilizado a medida de regressão RMSE.
 
 Algumas técnicas utilizadas: 
 - Correlação
